@@ -1,0 +1,11 @@
+kickstarters/.settings
+kickstarters/.classpath
+kickstarters/.project
+kickstarters/target/
+*.iml
+.idea/
+.ssh/
+.metadata/
+Servers/
+RemoteSystemsTempFiles/
+kickstarters/.factorypath
